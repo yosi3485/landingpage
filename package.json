@@ -1,0 +1,19 @@
+{
+  "name": "chef-noriel",
+  "version": "1.0.0",
+  "description": "Chef Noriel Landing Page",
+  "main": "gulp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yosi3485/landingpage.git"
+  },
+  "author": "Yosuani Rodriguez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yosi3485/landingpage/issues"
+  },
+  "homepage": "https://github.com/yosi3485/landingpage#readme"
+}

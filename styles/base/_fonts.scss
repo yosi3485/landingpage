@@ -1,0 +1,16 @@
+//
+//  Fonts
+//
+
+@font-face {
+    font-family: $font-family-primary;
+    src: url('#{$font-path-base}/Satisfy-Regular-webfont.eot');
+    src: url('#{$font-path-base}/Satisfy-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('#{$font-path-base}/Satisfy-Regular-webfont.woff2') format('woff2'),
+         url('#{$font-path-base}/Satisfy-Regular-webfont.woff') format('woff'),
+         url('#{$font-path-base}/Satisfy-Regular-webfont.ttf') format('truetype'),
+         url('#{$font-path-base}/Satisfy-Regular-webfont.svg#satisfyregular') format('svg');
+    font-weight: $text-medium;
+    font-style: normal;
+    font-display: swap;
+}

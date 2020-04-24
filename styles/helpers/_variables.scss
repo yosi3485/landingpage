@@ -1,0 +1,56 @@
+//
+//  Variables
+//
+
+//  Fonts
+
+$font-family-base:               Helvetica, Arial, sans-serif;
+$font-family-primary:            'satisfyregular';
+
+$text-light:                  100;
+$text-book:                   300;
+$text-medium:                 500;
+$text-bold:                   700;
+
+$text-size:                   16px;
+
+$font-weight-light:           $text-light;
+$font-weight-normal:          $text-book;
+$font-weight-medium:          $text-medium;
+$font-weight-bold:            $text-bold;
+
+$font-size-base:              rem($text-size);
+$line-height-base:            1;
+$font-weight-base:            $font-weight-normal;
+
+//  Colors
+
+$white:                       #ffffff;
+$black:                       #000000;
+$yellow                       #ffb609;
+$dark:                        #232323;
+$white-light:                 #f2f1f1;
+$black-light:                 #243238;
+
+//  Body
+
+$min-width:                   rem(320px);
+$body-bg:                     $white-light;
+$body-color:                  $black-light;
+
+// Path
+
+$path-base:                   '.';
+$font-path-base:              '#{$path-base}/fonts';
+
+//  Spaces
+
+$headings-margin-bottom:      rem(20px);
+$paragraph-margin-bottom:     rem(10px);
+
+//  Links
+
+$link-color:                  $white;
+$link-decoration:             none;
+$link-hover-color:            $yellow;
+$link-hover-decoration:       none;
